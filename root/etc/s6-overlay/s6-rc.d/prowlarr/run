@@ -1,0 +1,3 @@
+#!/usr/bin/execlineb -P
+
+/opt/prowlarr/bin/Prowlarr -nobrowser -data=/container/data
